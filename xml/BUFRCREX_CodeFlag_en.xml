@@ -3511,16 +3511,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>002001</FXY>
     <ElementName_en>Type of station</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -14311,16 +14301,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>003001</FXY>
     <ElementName_en>Surface station type</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -15811,16 +15791,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>004059</FXY>
     <ElementName_en>Times of observation used to compute the reported mean values</ElementName_en>
     <CodeFigure>1</CodeFigure>
@@ -15961,16 +15931,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>005069</FXY>
     <ElementName_en>Receiver channel</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -16009,16 +15969,6 @@
     <EntryName_sub2_en/>
     <Note_en/>
     <Status>Operational</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
     <FXY>008001</FXY>
@@ -22601,16 +22551,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>010063</FXY>
     <ElementName_en>Characteristic of pressure tendency</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -22769,16 +22709,6 @@
     <EntryName_sub2_en/>
     <Note_en/>
     <Status>Operational</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
     <FXY>011030</FXY>
@@ -23881,16 +23811,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>013038</FXY>
     <ElementName_en>Superadiabatic indicator</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -24551,16 +24471,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>015025</FXY>
     <ElementName_en>Type of pollutant</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -24619,16 +24529,6 @@
     <EntryName_sub2_en/>
     <Note_en/>
     <Status>Operational</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
     <FXY>019001</FXY>
@@ -26129,16 +26029,6 @@
     <EntryName_sub2_en/>
     <Note_en/>
     <Status>Operational</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
     <FXY>020003</FXY>
@@ -36741,16 +36631,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>021066</FXY>
     <ElementName_en>Wave scatterometer product confidence data</ElementName_en>
     <CodeFigure>1</CodeFigure>
@@ -38561,16 +38441,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>022056</FXY>
     <ElementName_en>Direction of profile</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -39411,16 +39281,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>023001</FXY>
     <ElementName_en>Accident early notification - article applicable</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -40251,16 +40111,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>024003</FXY>
     <ElementName_en>Composition of release</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -40319,16 +40169,6 @@
     <EntryName_sub2_en/>
     <Note_en/>
     <Status>Operational</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
     <FXY>025004</FXY>
@@ -43601,16 +43441,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>026010</FXY>
     <ElementName_en>Hours included</ElementName_en>
     <CodeFigure>1</CodeFigure>
@@ -43871,16 +43701,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>029001</FXY>
     <ElementName_en>Projection type</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -44009,16 +43829,6 @@
     <EntryName_sub2_en/>
     <Note_en/>
     <Status>Operational</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
     <FXY>030031</FXY>
@@ -44271,16 +44081,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>031021</FXY>
     <ElementName_en>Associated field significance</ElementName_en>
     <CodeFigure>0</CodeFigure>
@@ -44409,16 +44209,6 @@
     <EntryName_sub2_en/>
     <Note_en/>
     <Status>Operational</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
     <FXY>033002</FXY>
@@ -49581,16 +49371,6 @@
     <Status>Operational</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
     <FXY>035000</FXY>
     <ElementName_en>FM and regional code number</ElementName_en>
     <CodeFigure>000-099</CodeFigure>
@@ -50609,16 +50389,6 @@
     <EntryName_sub2_en/>
     <Note_en/>
     <Status>Operational</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
     <FXY>040005</FXY>
@@ -52819,16 +52589,6 @@
     <EntryName_sub2_en/>
     <Note_en/>
     <Status>Operational</Status>
-  </BUFRCREX_CodeFlag_en>
-  <BUFRCREX_CodeFlag_en>
-    <FXY>FXY</FXY>
-    <ElementName_en>ElementName_en</ElementName_en>
-    <CodeFigure>CodeFigure</CodeFigure>
-    <EntryName_en>EntryName_en</EntryName_en>
-    <EntryName_sub1_en>EntryName_sub1_en</EntryName_sub1_en>
-    <EntryName_sub2_en>EntryName_sub2_en</EntryName_sub2_en>
-    <Note_en>Note_en</Note_en>
-    <Status>Status</Status>
   </BUFRCREX_CodeFlag_en>
   <BUFRCREX_CodeFlag_en>
     <FXY>042004</FXY>
